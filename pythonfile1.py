@@ -45,6 +45,8 @@ print(elephant.make_sound())
 print(elephant.eat())
 print("-----")
 
+print("Hi")
+
 print(monkey.make_sound())
 print(monkey.eat())
 print("-----")

@@ -47,6 +47,8 @@ print("-----")
 
 print("Hi")
 
+print("omg")
+
 print(monkey.make_sound())
 print(monkey.eat())
 print("-----")

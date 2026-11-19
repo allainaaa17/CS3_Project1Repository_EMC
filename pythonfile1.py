@@ -46,7 +46,7 @@ print(elephant.eat())
 print("-----")
 
 print("Hi")
-
+print("Test path")
 
 print(monkey.make_sound())
 print(monkey.eat())
